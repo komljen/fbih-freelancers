@@ -8,7 +8,7 @@ Popunjen [AMS obrazac](http://www.pufbih.ba/v1/public/upload/obrasci/b839c-obraz
 
 ![b839c-obrazac-ams_bos_web.pdf](http://www.pufbih.ba/v1/public/upload/obrasci/b839c-obrazac-ams_bos_web.pdf)
 
-**Napomena:** Prva kolona je `iznos koji dobijete * 0.8`, jer imate pravo na 20% rashoda.
+**Napomena:** Prva kolona, iznos dohodka je `iznos koji dobijete * 0.8`, jer imate pravo na 20% rashoda.
 
 Uz obrazac predate i dokaz o uplati, izvod iz banke gdje je prikazana ta uplata je dovoljna. Iskopirate i predate zajedno sa 2 primjerka AMS-a. Jedan primjerak AMS-a se vraca Vama da mozete cuvati kao dokaz da ste isti predali.
 
