@@ -24,6 +24,8 @@ Da bi to pravo ostvarili, morate se prijaviti u ZZO za dobrovoljno zdravstveno o
 
 Prvi put, platit cete puni iznos za 7 mjeseci (npr. 70 KM mjesecno), a dalje cete uplate izvrsiti preko AMS obrasca. Bitno je naglasiti, da ukoliko je iznos na AMS obrazcu iz kolone 2 manji od premije, u ovom slucaju 70KM, onda morate doplatiti razliku. Ukoliko je veci, nemate daljih koraka, samo vrsite uplate.
 
+**Napomena:** Unazad placate ukoliko niste imali aktivnu prijavu u zadnjih 6 mjeseci.
+
 ## PIO
 
 Nemam detaljnih informacija za PIO, ali isto mozete dobrovoljno placati.
