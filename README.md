@@ -6,7 +6,7 @@ Ukoliko radite kao freelancer u FBIH, prilikom svake uplate iz inozemstva duzni 
 
 Popunjen [AMS obrazac](http://www.pufbih.ba/v1/public/upload/obrasci/b839c-obrazac-ams_bos_web.pdf) predate na salteru porezne ispostave prema mjestu prebivalista. Isti izgleda ovako:
 
-![b839c-obrazac-ams_bos_web.pdf](http://www.pufbih.ba/v1/public/upload/obrasci/b839c-obrazac-ams_bos_web.pdf)
+![b839c-obrazac-ams_bos_web.jpg](https://github.com/komljen/fbih-freelancers/blob/master/images/b839c-obrazac-ams_bos_web.jpg)
 
 **Napomena:** Prva kolona, iznos dohodka je `iznos koji dobijete * 0.8`, jer imate pravo na 20% rashoda.
 
