@@ -12,6 +12,8 @@ Popunjen [AMS obrazac](http://www.pufbih.ba/v1/public/upload/obrasci/b839c-obraz
 
 Uz obrazac predate i dokaz o uplati, izvod iz banke gdje je prikazana ta uplata je dovoljna. Iskopirate i predate zajedno sa 2 primjerka AMS-a. Jedan primjerak AMS-a se vraca Vama da mozete cuvati kao dokaz da ste isti predali.
 
+**Napomena:** Moguce je da ce Vam porezna uprava traziti i neku vrstu ugovora.
+
 Za detalje o uplati javnih prihoda pitajte nekog u poreznoj, posto su racuni razliciti u svakom kantonu. Informacije imate i na stranici porezne uprave - http://www.pufbih.ba/v1/stranica/15, ali svakako pitajte.
 
 ## Zdravstveno Osiguranje
