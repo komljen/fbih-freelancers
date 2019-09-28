@@ -18,13 +18,13 @@ Za detalje o uplati javnih prihoda pitajte nekog u poreznoj, posto su racuni raz
 
 ## Zdravstveno Osiguranje
 
-Zdravstveno osiguranje svakako placate kroz AMS obrazac, te imate pravo na isto. Tih 4% se dijeli na 89,80% koje ide kantonu, i 10,20% Federaciji.
+Zavodu za zdravstveno osiguranje placate kroz AMS obrazac, ali ipak nemate pravo na isto (iz meni nepoznatih razloga). Tih 4% se dijeli na 89,80% koje ide kantonu, i 10,20% Federaciji.
 
-Da bi to pravo ostvarili, morate se prijaviti u ZZO za dobrovoljno zdravstveno osiguranje prema clanu 27:
+Da bi ipak imali pravo na zdravstveno osiguranje, morate se prijaviti u ZZO za dobrovoljno zdravstveno osiguranje prema clanu 27:
 
 *Shodno odredbi člana 27. Zakona o zdravstvenom osiguranju moguće je lično se osigurati u obimu utvrđenom za članove porodice na taj način što će osoba uplaćivati lična sredstva kao doprinos za obavezno zdravstveno osiguranje, i to od dana prestanka svojstva osiguranika, odnosno najmanje 6 mjeseci unazad. S tim u vezi, novčana obaveza na ime doprinosa, na mjesečnom nivou, iznosi 5% od prosječne  bruto isplaćene plaće na području FBIH prema posljednjem objavljenom podatku Federalnog zavoda za statistiku, a koja je dostupna na http://fzs.ba. Slijedom navedenog, a kako bi ostvarila pravo na obavezno zdravstveno osiguranje po navedenom osnovu, neophodno je da podnese zahtjev i priloži slijedeću dokumentaciju: 1. Prijavnica Cipsa, 2. Uplatnica i 3. Uvjerenje Porezne uprave FBiH da nema tekućih osiguranja.*
 
-Prvi put, platit cete puni iznos za 7 mjeseci (npr. 70 KM mjesecno), a dalje cete uplate izvrsiti preko AMS obrasca. Bitno je naglasiti, da ukoliko je iznos na AMS obrazcu iz kolone 2 manji od premije, u ovom slucaju 70KM, onda morate doplatiti razliku. Ukoliko je veci, nemate daljih koraka, samo vrsite uplate.
+Dobrovoljno zdravstveno Vas kosta ~70KM mjesecno.
 
 **Napomena:** Unazad placate ukoliko niste imali aktivnu prijavu u zadnjih 6 mjeseci.
 
